@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Code_Banner](https://user-images.githubusercontent.com/96899152/231154798-c81cbee8-cd5b-4305-b363-e786af62e6cd.jpg)
+
 - 🔭 I’m currently working on Rite pharmacy as a junior IT
 - 🌱 I’m currently studying at Adventist University of Central of Africa specializing in Software Engineering
 - 📫 How to reach me: munezeroherman@gmail.com
