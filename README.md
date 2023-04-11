@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Rite pharmacy as a junior IT
-- 🌱 I’m currently learning at Adventist University of Central of Africa specializing in Software Engineering
+- 🌱 I’m currently studying at Adventist University of Central of Africa specializing in Software Engineering
 - 📫 How to reach me: munezeroherman@gmail.com
 <!--
 **herman3321/herman3321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
