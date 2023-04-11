@@ -1,5 +1,3 @@
-![Code_Banner](https://user-images.githubusercontent.com/96899152/231154798-c81cbee8-cd5b-4305-b363-e786af62e6cd.jpg)
-
 ### Hi there 👋
 
 <h1 align="center"> I'm Kamugunga Munezero Herman</h1>
