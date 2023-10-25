@@ -4,7 +4,7 @@
 <h3 align="center">I'm passionate full stack developer, I like to contribute in solving complex problems</h3>
 
 <h3 align="left">About me:</h3>
-- 🔭 I’m currently working on **Rite pharmacy as a junior IT.**
+- 🔭 I’m currently working on **Personal projects.**
 
 - 🌱 I’m currently learning **at Adventist University of Central of at Africa specializing in Software Engineering.**
 
